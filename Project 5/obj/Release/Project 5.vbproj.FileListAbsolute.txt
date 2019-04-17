@@ -1,0 +1,12 @@
+C:\Project 5\Project 5\bin\Release\Project 5.exe.config
+C:\Project 5\Project 5\bin\Release\Project 5.exe
+C:\Project 5\Project 5\bin\Release\Project 5.pdb
+C:\Project 5\Project 5\bin\Release\Project 5.xml
+C:\Project 5\Project 5\obj\Release\Project_5.frm.resources
+C:\Project 5\Project 5\obj\Release\Project_5.Resources.resources
+C:\Project 5\Project 5\obj\Release\Project 5.vbproj.GenerateResource.cache
+C:\Project 5\Project 5\obj\Release\Project 5.vbproj.CoreCompileInputs.cache
+C:\Project 5\Project 5\obj\Release\Project 5.exe
+C:\Project 5\Project 5\obj\Release\Project 5.xml
+C:\Project 5\Project 5\obj\Release\Project 5.pdb
+C:\Project 5\Project 5\obj\Release\Project 5.vbprojAssemblyReference.cache
